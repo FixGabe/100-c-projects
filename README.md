@@ -10,6 +10,6 @@ Construir um portfólio prático e documentado.
 
 # Tecnologias e Ferramentas
 Linguagem: C (C99 / C11)
-wCompilador: GCC / Clang
+Compilador: GCC / Clang
 IDE/Editor: VS Code
 Controle de Versão: Git & GitHub
